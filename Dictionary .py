@@ -1,3 +1,10 @@
+"""
+English-to-Bangla Dictionary CLI
+Author: Yousuf Hasan (Tiger)
+Description: A simple command-line tool to translate English words to Bengali.
+"""
+
+# Your dictionary and logic code here...
 Dictionary = {
 'zero': 'শূন্য',
 'one': 'এক',

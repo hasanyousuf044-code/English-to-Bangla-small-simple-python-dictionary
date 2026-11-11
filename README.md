@@ -4,7 +4,7 @@
 
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg?style=flat-square&logo=python)
 ![Build Status](https://img.shields.io/badge/Status-Active-success.svg?style=flat-square)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg?style=flat-square)
 
 ## 🚀 Overview
 
